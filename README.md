@@ -10,3 +10,7 @@
 - **Reliability and Resilience**: Ensures safe data storage with protection against failures and data loss.
 
 **ExtBTree** is ideal for applications requiring highly efficient management of large data volumes, such as databases, file systems, and analytical systems.
+
+## Warning
+
+**Please Note:** The current version of the presented project is outdated and contains numerous shortcomings. It lacks significant functionality that could be critical for real-world applications. It is recommended to use this code solely as a demonstration of concept or as a sample implementation. Feel free to contact me for further inquiries.
